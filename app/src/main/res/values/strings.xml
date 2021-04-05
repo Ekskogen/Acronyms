@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Search Acronyms</string>
+
+    <string name="search_hint">Find an acronym</string>
+
+    <string name="error_input_acronyms">Input a valid acronym</string>
+    <string name="error_loading_acronyms">Error loading acronyms</string>
+    <string name="error_loading_no_internet">Please check your internet connection or wait for service to be restored</string>
+
+    <string name="warning_empty_acronyms">There are no acronyms for this word</string>
+    <string name="warning_first_screen">Hello! Please, provide any acronym to find the meaning.</string>
+
+    <string name="item_freq">Frequency: %d</string>
+    <string name="item_year">Used since %d</string>
+</resources>
